@@ -60,7 +60,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('../Pictures/rsz_tanner-crockett-gkkpcluytgg-unsplash.jpg') no-repeat top center ;
+  background: url('Pictures/rsz_tanner-crockett-gkkpcluytgg-unsplash.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
