@@ -25,6 +25,9 @@ a:hover {
 
 /* Section Styles */
 
+img {
+  border-radius: 15px;
+}
 .main-nav {
   width: 100%;
   background: black;
@@ -64,6 +67,7 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
+  border-radius: 20px;
 }
 header {
   line-height: 1.5;
