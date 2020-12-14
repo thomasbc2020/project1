@@ -159,13 +159,13 @@ a.social {
   transition: all .5s;
 }
 a.twitter {
-  background-image: url(images/twitter.svg);
+  background-image: url(Pictures/twitter.svg);
 }
 a.linkedin {
-  background-image: url(images/linkedin.svg);
+  background-image: url(Pictures/linkedin.svg);
 }
 a.github {
-  background-image: url(images/github.svg);
+  background-image: url(Pictures/github.svg);
 }
 a.social:hover {
   opacity: 1;
@@ -204,6 +204,7 @@ a.social:hover {
     line-height: 1.6em;
   }
 
+ 
   footer {
     font-size: 1.3em;
     max-width: 1200px;
