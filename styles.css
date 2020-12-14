@@ -67,7 +67,7 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  border-radius: 20px;
+  border-radius: 60px;
 }
 header {
   line-height: 1.5;
@@ -76,7 +76,7 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 25px;
   border: 3px solid white;
   transition: all .5s;
 }
